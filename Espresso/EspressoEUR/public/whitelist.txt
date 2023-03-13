@@ -1,0 +1,5 @@
+<white-domain>https://eu.vino.wup.espressoforwiiu.net/
+<gold-domain>https://eu.vino.wup.espressoforwiiu.net/
+<white-title-ID>000500301001320A
+<top-page>https://eu.vino.wup.espressoforwiiu.net/
+<white-acr>a
